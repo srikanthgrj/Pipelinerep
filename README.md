@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/srikanthgrj/TestNew/_apis/build/status/srikanthgrj.Pipelinerep?branchName=master)](https://dev.azure.com/srikanthgrj/TestNew/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
