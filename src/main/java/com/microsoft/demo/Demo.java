@@ -8,7 +8,7 @@ public class Demo {
         }
 
         System.out.println("I am not covered");
-        System.out.println("I am not covered");
+        
         
     }
 }
